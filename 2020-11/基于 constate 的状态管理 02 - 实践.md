@@ -335,6 +335,14 @@ export default () => (
 就像开头所说的，每个项目都伴随很大的不确定性，靠个人经验很难完全预测，这也打消了我天真地想把这套实践包装成框架的想法，可能这篇文章才是最好产物。
 
 
+
+下一节，我们将结合一个相对复杂的业务场景，尝试数据分层的管理方式。
+
+[基于 constate 的状态管理 - 复杂场景]() 👈
+
+
+
+
 ## 相关项目
 
 - [constate-crud-example](https://github.com/gouflv/constate-crud-example) 一个 constate 结合 and design 的项目模版
