@@ -6,7 +6,7 @@
 
 [the-nature-of-code - 用编程模拟自然系统](https://github.com/gouflv/the-nature-of-code)
 
-[react-papercss-ui - React 组件库](https://github.com/gouflv/react-papercss-ui)
+[react-papercss-ui - 又一个组件库](https://github.com/gouflv/react-papercss-ui)
 
 ## Posts
 
