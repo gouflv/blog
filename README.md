@@ -21,7 +21,7 @@
 
 ## Posts
 
-[基于 constate 的状态管理](https://github.com/gouflv/blog/issues/1)
+[基于 constate 的状态管理](https://github.com/gouflv/blog/issues/5)
 
 [Lerna 私有仓库开发指南](https://github.com/gouflv/blog/issues/4)
 
